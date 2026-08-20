@@ -16,7 +16,7 @@ function TechStack() {
     <section id="learn" className="py-16">
       <div className="page-shell">
         <div className="card card-shadow p-7 sm:p-9">
-          <h2 className="section-heading">What You Will Build & Learn in 2 Days (4 Hours Live)</h2>
+          <h2 className="section-heading">What You Will Build & Learn</h2>
           <div className="mt-6 grid gap-3 sm:grid-cols-2">
             {outcomes.map((item) => (
               <div key={item} className="flex items-start gap-3">

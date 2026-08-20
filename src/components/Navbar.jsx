@@ -21,7 +21,7 @@ function Navbar({ onReserve }) {
           </span>
           <div>
             <span className="text-base font-extrabold text-gray-900 block leading-tight">Flutter Hybrid Mobile App Development</span>
-            <span className="text-[10px] font-semibold text-indigo-600 uppercase tracking-widest block">Complete Industrial Training • Starts 1st Sept 2026</span>
+            <span className="text-[10px] font-semibold text-indigo-600 uppercase tracking-widest block">Complete Industrial Training </span>
           </div>
         </a>
         <div className="hidden items-center gap-8 lg:flex">
