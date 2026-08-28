@@ -21,7 +21,7 @@ function UrgencySection() {
         <div className="flex flex-wrap items-center justify-center gap-x-6 gap-y-2 text-sm font-medium text-red-700">
           <span className="flex items-center gap-2">
             <span className="inline-block h-2.5 w-2.5 animate-pulse rounded-full bg-red-500" />
-            <strong>Admissions Open for 1st September 2026 Batch:</strong>
+            <strong>Admissions Open for 5th September 2026 Batch:</strong>
           </span>
           <span className="font-mono text-base font-bold tracking-wider">
             {pad(hours)}h {pad(minutes)}m {pad(seconds)}s

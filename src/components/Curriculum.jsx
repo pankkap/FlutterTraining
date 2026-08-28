@@ -140,7 +140,7 @@ const curriculumSections = [
       'Firebase Storage (optional extension)',
     ],
     pedagogy: [
-      'Build complete Authentication App',
+      'Build Authentication App',
       'Notes App using Firestore',
       'Real-time data sync activities',
     ],

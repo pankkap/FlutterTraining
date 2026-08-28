@@ -4,14 +4,14 @@ import { ChevronDown, ChevronUp } from 'lucide-react'
 const faqs = [
   {
     q: 'When does the Flutter Hybrid Mobile App Development course start?',
-    a: 'The batch starts on 1st September 2026. All enrolled students will receive complete timetable and batch joining details via email/WhatsApp.',
+    a: 'The batch starts on 5th September 2026. All enrolled students will receive timetable and batch joining details via email/WhatsApp.',
   },
   {
     q: 'What is the course fee and what payment options are available?',
     a: 'The reduced admission price is Rs 7,500/- (Actual Standard Price is Rs 35,000/-). You can enroll securely using credit/debit cards, UPI, net banking, or Razorpay payment options.',
   },
   {
-    q: 'What modules are covered in this complete training program?',
+    q: 'What modules are covered in this training program?',
     a: 'The program includes 6 structured modules covering Dart Programming, Flutter Core Widgets & Responsive Layouts, Navigation & State Management, Lists & Local Storage (SQLite/SharedPref), REST API Integration & Models, and Firebase Auth & Firestore, culminating in a compulsory final capstone project.',
   },
   {

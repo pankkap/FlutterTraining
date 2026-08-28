@@ -2,7 +2,7 @@ import { CalendarDays, Users, Star, Award, Code2 } from 'lucide-react'
 
 function SocialProof() {
   const stats = [
-    { icon: CalendarDays, value: '1st Sept 2026', label: 'Course Start Date' },
+    { icon: CalendarDays, value: '5th Sept 2026', label: 'Course Start Date' },
     { icon: Code2, value: '6 Modules', label: 'Complete Curriculum' },
     { icon: Star, value: '4.9 / 5', label: 'Student Rating' },
     { icon: Users, value: '1500+', label: 'Engineers & Devs Trained' },

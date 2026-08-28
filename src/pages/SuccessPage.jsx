@@ -84,7 +84,7 @@ function SuccessPage() {
         <h1 className="text-3xl font-bold text-gray-900">Admission Confirmed!</h1>
         <p className="mt-3 text-sm text-gray-600">
           Thank you for enrolling in <strong>Flutter Hybrid Mobile App Development</strong>.<br />
-          Course batch begins on <strong>1st September 2026</strong>. Schedule & orientation joining details will be sent to your email/WhatsApp shortly.
+          Course batch begins on <strong>5th September 2026</strong>. Schedule & orientation joining details will be sent to your email/WhatsApp shortly.
         </p>
         <p className="mt-4 text-sm text-gray-500">
           Questions? Email us at{' '}

@@ -17,9 +17,9 @@ function Pricing({ onReserve }) {
         <div className="mx-auto max-w-xl overflow-hidden card card-shadow">
           {/* header */}
           <div className="bg-indigo-600 px-7 py-5 text-center">
-            <p className="text-xs font-semibold uppercase tracking-widest text-indigo-200">Complete Training & Admission Portal</p>
+            <p className="text-xs font-semibold uppercase tracking-widest text-indigo-200">Training & Admission Portal</p>
             <h2 className="mt-1 text-2xl font-extrabold text-white">Flutter Hybrid Mobile App Development</h2>
-            <p className="mt-1 text-xs font-medium text-cyan-200">Course Starts from 1st September 2026</p>
+            <p className="mt-1 text-xs font-medium text-cyan-200">Course Starts from 5th September 2026</p>
           </div>
 
           <div className="space-y-5 p-7">
@@ -44,14 +44,14 @@ function Pricing({ onReserve }) {
 
             <div className="rounded-lg border border-amber-400/30 bg-amber-50 px-4 py-3">
               <p className="text-center text-sm leading-relaxed text-amber-800">
-                <span className="font-bold">Enroll now at Rs 7,500/-</span> to lock your seat for the batch starting <span className="font-bold">1st September 2026</span>.
+                <span className="font-bold">Enroll now at Rs 7,500/-</span> to lock your seat for the batch starting <span className="font-bold">5th September 2026</span>.
                 <span className="block mt-1 text-xs font-semibold text-amber-900">(Actual Standard Fee: Rs 35,000/-)</span>
               </p>
             </div>
 
             <CTAButton label="Enroll Now — Rs 7,500" onClick={onReserve} className="w-full py-4 text-base" />
             <p className="text-center text-xs text-gray-500">
-              Limited Admission Batch • Complete Training & Certification
+              Limited Admission Batch • Training & Certification
             </p>
           </div>
         </div>

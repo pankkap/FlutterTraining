@@ -255,7 +255,7 @@ function ModalForm({ open, onClose, resumePayment }) {
             </h3>
             <div className="mt-3 w-full rounded-xl border border-white/20 bg-white/10 px-3 py-2 shadow-[0_10px_30px_-18px_rgba(0,0,0,0.45)] backdrop-blur-sm">
               <p className="text-center text-xs font-semibold leading-5 text-white">
-                Pay Rs {PAYMENT_AMOUNT}/- • Course Starts 1st September 2026
+                Pay Rs {PAYMENT_AMOUNT}/- • Course Starts 5th September 2026
               </p>
             </div>
           </div>

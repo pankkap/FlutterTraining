@@ -34,9 +34,9 @@ function Hero({ onReserve }) {
           <div className="flex flex-1 flex-col gap-5 lg:max-w-2xl lg:justify-center">
             {/* breadcrumb */}
             <nav className="flex items-center gap-1.5 text-xs text-gray-400">
-              <span className="rounded bg-indigo-500/20 px-2 py-0.5 font-bold uppercase text-indigo-300">Complete Training Portal</span>
+              <span className="rounded bg-indigo-500/20 px-2 py-0.5 font-bold uppercase text-indigo-300">Training Portal</span>
               <ChevronRight size={11} />
-              <span>Starts 1st September 2026</span>
+              <span>Starts 5th September 2026</span>
               <ChevronRight size={11} />
               <span className="text-cyan-300">Flutter & Dart Hybrid Mobile App Dev</span>
             </nav>
@@ -51,7 +51,7 @@ function Hero({ onReserve }) {
             {/* target group badge */}
             <div className="flex flex-wrap items-center gap-3 text-sm">
               <span className="rounded bg-emerald-500/20 px-2.5 py-1 text-xs font-bold uppercase tracking-wide text-emerald-400 border border-emerald-500/30">
-                Course Starts: 1st September 2026
+                Course Starts: 5th September 2026
               </span>
               <div className="flex items-center gap-2">
                 <span className="font-bold text-amber-400">4.9</span>
@@ -92,7 +92,7 @@ function Hero({ onReserve }) {
             <div className="w-full rounded-xl border border-red-400/70 bg-gradient-to-r from-red-600 to-rose-600 px-5 py-3.5 text-left shadow-[0_0_28px_rgba(239,68,68,0.45)] lg:max-w-xl">
               <p className="text-sm leading-relaxed text-white sm:text-[15px]">
                 <span className="font-bold text-white">🔥 Special Discounted Admission Offer: Enroll for Rs 7,500/- Only!</span>{' '}
-                <span className="block mt-0.5 text-xs text-rose-100">Course Starts from 1st September 2026. (Actual Price: <span className="line-through text-amber-200">Rs 35,000/-</span>)</span>
+                <span className="block mt-0.5 text-xs text-rose-100">Course Starts from 5th September 2026. (Actual Price: <span className="line-through text-amber-200">Rs 35,000/-</span>)</span>
               </p>
             </div>
 
@@ -124,14 +124,14 @@ function Hero({ onReserve }) {
                       <CalendarDays className="h-3.5 w-3.5 text-cyan-200" />
                       Batch Starts
                     </p>
-                    <p className="mt-1 text-sm font-extrabold leading-none text-white">1st Sept 2026</p>
+                    <p className="mt-1 text-sm font-extrabold leading-none text-white">5th Sept 2026</p>
                   </div>
                 </div>
 
                 {/* reservation note */}
                 <div className="rounded-md border border-amber-500/30 bg-amber-500/10 px-3 py-2.5">
                   <p className="text-xs leading-relaxed text-amber-300">
-                    <span className="font-bold">Pay Rs 7,500/- now</span> to secure your seat for the batch starting 1st September 2026.
+                    <span className="font-bold">Pay Rs 7,500/- now</span> to secure your seat for the batch starting 5th September 2026.
                   </p>
                 </div>
 
@@ -142,7 +142,7 @@ function Hero({ onReserve }) {
                 >
                   Enroll Now — Rs 7,500/-
                 </button>
-                <p className="text-center text-xs text-gray-400">Complete Training + Capstone Project + Certification</p>
+                <p className="text-center text-xs text-gray-400">Training + Capstone Project + Certification</p>
 
                 <div className="space-y-2 border-t border-gray-700 pt-4">
                   {[
